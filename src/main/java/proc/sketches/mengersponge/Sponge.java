@@ -56,7 +56,7 @@ public class Sponge extends PApplet {
     }
 
     public static void main(String... args) {
-        PApplet.main("proc.sketches.mengersponge.Sponge");
+        PApplet.main(Sponge.class);
     }
 }
 

@@ -79,7 +79,7 @@ public class StarField extends PApplet {
     }
 
     public static void main(String... args) {
-        PApplet.main("proc.sketches.starfield.StarField");
+        PApplet.main(StarField.class);
     }
 }
 
