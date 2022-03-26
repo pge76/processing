@@ -6,8 +6,8 @@ import java.util.Arrays;
 
 public class GameOfLife extends PApplet {
     private static final int DIMENSION_X = 100;
-    private static final int DIMENSION_Y = 60;
-    private static final int GRIDSIZE = 20;
+    private static final int DIMENSION_Y = 80;
+    private static final int GRIDSIZE = 15;
 
     private int generation = 0;
     private boolean animate = false;
